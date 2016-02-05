@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  分数近似小数.cpp
+分数近似小数.cpp(25): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+分数近似小数.cpp(29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+分数近似小数.cpp(13): warning C4101: “c”: 未引用的局部变量
+  正在生成代码
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  分数近似小数.vcxproj -> C:\Users\lgsta\working\Coding\C++\分数近似小数\Release\分数近似小数.exe

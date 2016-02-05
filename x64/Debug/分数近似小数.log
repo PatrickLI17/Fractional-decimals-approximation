@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  分数近似小数.cpp
+c:\users\lgsta\working\coding\c++\分数近似小数\分数近似小数\分数近似小数.cpp(25): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\lgsta\working\coding\c++\分数近似小数\分数近似小数\分数近似小数.cpp(29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\lgsta\working\coding\c++\分数近似小数\分数近似小数\分数近似小数.cpp(13): warning C4101: “c”: 未引用的局部变量
+  分数近似小数.vcxproj -> C:\Users\lgsta\working\Coding\C++\分数近似小数\x64\Debug\分数近似小数.exe
